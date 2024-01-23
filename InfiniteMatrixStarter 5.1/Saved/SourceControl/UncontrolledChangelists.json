@@ -1,0 +1,26 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"/Users/anishgupta/Downloads/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Player.uasset",
+				"/Users/anishgupta/Downloads/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_TunnelSpawner.uasset",
+				"/Users/anishgupta/Downloads/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset",
+				"/Users/anishgupta/Downloads/InfiniteMatrixStarter/Content/InfiniteMatrix/Maps/TutorialMap.umap",
+				"/Users/anishgupta/Downloads/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/WBP_Restart.uasset",
+				"/Users/anishgupta/Documents/Unreal Projects/InfiniteMatrixStarter 5.1/Content/InfiniteMatrix/Blueprints/BP_Player.uasset",
+				"/Users/anishgupta/Documents/Unreal Projects/InfiniteMatrixStarter 5.1/Content/InfiniteMatrix/UI/WBP_HUD.uasset",
+				"/Users/anishgupta/Documents/Unreal Projects/InfiniteMatrixStarter 5.1/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset",
+				"/Users/anishgupta/Documents/Unreal Projects/InfiniteMatrixStarter 5.1/Content/InfiniteMatrix/Blueprints/BP_HealthPack.uasset",
+				"/Users/anishgupta/Documents/Unreal Projects/InfiniteMatrixStarter 5.1/Content/InfiniteMatrix/Blueprints/BP_TunnelSpawner.uasset",
+				"/Users/anishgupta/Documents/Unreal Projects/InfiniteMatrixStarter 5.1/Content/InfiniteMatrix/Maps/TutorialMap.umap",
+				"/Users/anishgupta/Documents/Unreal Projects/InfiniteMatrixStarter 5.1/Content/InfiniteMatrix/Blueprints/BP_Projectile.uasset",
+				"/Users/anishgupta/Documents/Unreal Projects/InfiniteMatrixStarter 5.1/Content/InfiniteMatrix/Inputs/IA_Shoot.uasset",
+				"/Users/anishgupta/Documents/Unreal Projects/InfiniteMatrixStarter 5.1/Content/InfiniteMatrix/Inputs/IMC_Character.uasset",
+				"/Users/anishgupta/Documents/Unreal Projects/InfiniteMatrixStarter 5.1/Content/InfiniteMatrix/Blueprints/BP_Enemy.uasset"
+			]
+		}
+	]
+}
